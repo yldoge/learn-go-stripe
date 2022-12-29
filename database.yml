@@ -1,0 +1,8 @@
+development:
+  dialect: mysql
+  database: widgets
+  user: root
+  password: secret
+  host: 127.0.0.1
+  port: 3307
+  pool: 5
